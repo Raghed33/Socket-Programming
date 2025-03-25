@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Request Supporting Material</title>
+</head>
+<body>
+    <h1>Request Supporting Material</h1>
+    <form action="http://127.0.0.1:5698/request_file" method="get">
+        <label for="file_name">Enter the name of the file you are looking for:</label>
+        <input type="text" id="file_name" name="file_name" required>
+        <br>
+        <label for="file_type">Select file type:</label>
+        <select id="file_type" name="file_type">
+            <option value="image">Image</option>
+            <option value="video">Video</option>
+        </select>
+        <br>
+        <button type="submit">Submit Request</button>
+    </form>
+</body>
+</html>
