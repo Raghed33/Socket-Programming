@@ -19,8 +19,20 @@ This project was developed as part of a university **Computer Networks (ENCS3320
 - **Wireshark**  (Network Traffic Analysis)
 - **Command-Line Network Tools** (`ping`, `tracert`, `nslookup`, etc.)
 
-## 👨‍💻 Authors
-- Lina Abufarha
-- Arein Almasri
-- Raghed Isleem
+## 👥 Team Members & Contributions
+- **Arein Almasri**: *Task 1 - Network Diagnostic Tools*
+  - Used network utilities for troubleshooting and connectivity analysis.
+  - Captured and examined DNS traffic using Wireshark.
+  - Provided insights into network performance and diagnostics.
+
+- **Lina Abufarha**: *Task 2 - TCP-based Web Server*
+  - Developed a multi-threaded web server for English and Arabic webpages.
+  - Implemented HTTP request handling and resource redirection.
+  - Ensured stability, error handling, and efficient communication.
+
+- **Raghed Isleem**: *Task 3 - UDP-based Trivia Game*
+  - Built a real-time multiplayer trivia game using UDP sockets.
+  - Implemented a question broadcasting system and real-time scoring.
+  - Optimized game synchronization and minimized network latency.
+
 
