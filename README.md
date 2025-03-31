@@ -30,7 +30,7 @@ This project was developed as part of a university **Computer Networks (ENCS3320
    ```
 3. Execute each task separately as per the following instructions:
    - **Task 1 (Network Diagnostic Tools)**: Run the provided network commands directly from the terminal and analyze outputs using Wireshark.
-   - **Task 2 (TCP-based Web Server)**: Navigate to `server1/` and run:
+   - **Task 2 (TCP-based Web Server)**: Navigate to `files/server1/` and run:
      ```sh
      python main.py
      ```
